@@ -1,6 +1,6 @@
 # Юрий Доронин  
 **Computer Vision Engineer — видеоаналитика, трекинг, оптимизация**  
-📍 Москва | 📧 doronin.iua@phystech.edu | 📱 +7 900 140-93-98 | [GitHub](https://github.com/your-username)
+📍 Москва | 📧 doronin.iua@phystech.edu | 📱 +7 900 140-93-98 |
 
 ---
 
