@@ -99,7 +99,6 @@
 ### 🎾 Трекинг мяча и игроков
 <video src="https://github.com/user-attachments/assets/7309f16b-7326-4633-86dd-dbdb665030d8"
        width="640"
-       controls
        loop
        muted
        playsinline
