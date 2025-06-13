@@ -97,11 +97,10 @@
 ---
 
 ### 🎾 Трекинг мяча и игроков
-<video src="./assets/sign_det.mp4"
+<video src="./assets/tennis_play.mp4"
        width="640"
        controls
        loop
-       muted
-       poster="./assets/poster.png">
+       muted>
   Ваш браузер не поддерживает video-тег.
 </video>
