@@ -101,6 +101,8 @@
        width="640"
        controls
        loop
-       muted>
+       muted
+       playsinline
+       autoplay>
   Ваш браузер не поддерживает video-тег.
 </video>
