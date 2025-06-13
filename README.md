@@ -105,3 +105,43 @@
        autoplay>
   Ваш браузер не поддерживает video-тег.
 </video>
+
+### 🧍‍♂️ 🧍‍♀️ 🧍‍♂️ Подсчет очередей 
+<video src=""
+       width="640"
+       loop
+       muted
+       playsinline
+       autoplay>
+  Ваш браузер не поддерживает video-тег.
+</video>
+
+### 🧍‍♂️ 🧍‍♀️ 🧍‍♂️ Подсчет очередей
+<video src="https://github.com/user-attachments/assets/d245077a-9396-4c90-b936-f64f9811cd78"
+       width="640"
+       loop
+       muted
+       playsinline
+       autoplay>
+  Ваш браузер не поддерживает video-тег.
+</video>
+
+### 🚘🚫 Распознование дорожных знаков
+<video src=""
+       width="640"
+       loop
+       muted
+       playsinline
+       autoplay>
+  Ваш браузер не поддерживает video-тег.
+</video>
+
+### 🚚 Классификация машин
+<video src="https://github.com/user-attachments/assets/3f3ed171-99bc-49ff-b74a-d616b018b00a"
+       width="640"
+       loop
+       muted
+       playsinline
+       autoplay>
+  Ваш браузер не поддерживает video-тег.
+</video>
