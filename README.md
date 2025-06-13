@@ -107,7 +107,7 @@
 </video>
 
 ### 🧍‍♂️ 🧍‍♀️ 🧍‍♂️ Подсчет очередей 
-<video src=""
+<video src="https://github.com/user-attachments/assets/aae1e972-ae16-4040-8457-5234027c5104"
        width="640"
        loop
        muted
@@ -127,7 +127,7 @@
 </video>
 
 ### 🚘🚫 Распознование дорожных знаков
-<video src=""
+<video src="https://github.com/user-attachments/assets/2182eeaa-7743-4aed-82ba-cab72d49db7c"
        width="640"
        loop
        muted
